@@ -1083,15 +1083,7 @@ section.lazy-placeholder:after {
   background-image: url("../../../assets/images/alex-iby-280624-2000x1333.jpg");
 }
 
-html,body {
-    width:100vw;
-    height: 100vh;
-    margin: 0;
-}
-body {
-    padding:0px;
-    margin:0px;
-}
+
 .video_container, .video {
     padding:0px;
     margin:0px;
