@@ -50,11 +50,11 @@ body {
 }
 .display-8 {
   font-family: 'Kaushan Script', handwriting;
-  font-size: 3rem;
+  font-size: 4rem;
   font-display: swap;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 3rem;
+  font-size: 4rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
