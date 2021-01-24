@@ -492,6 +492,15 @@ a.text-black:focus {
 .alert-danger {
   background-color: #b1a374;
 }
+
+.video_container, .video {
+    padding:0px;
+    margin:0px;
+    width:100%;
+    height:100vh;
+    object-fit: cover;
+}
+
 .mbr-section-btn a.btn:not(.btn-form) {
   border-radius: 100px;
 }
